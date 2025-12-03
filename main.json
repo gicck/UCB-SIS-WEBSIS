@@ -1,6 +1,6 @@
 {
     "name": "example",
-    "version2": "1.0.0",
+    "ver": "1.0.0",
     "description": "Sample JSON data",
     "dependencies": {
         "libraryA": "^2.3.4",
