@@ -6,3 +6,6 @@ Este es un curso para aprender casos de uso de git en un proyecto compartido
 
 ### Conclusion
 Fin del curso
+
+### Creditos
+blablabla
