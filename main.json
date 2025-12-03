@@ -1,5 +1,9 @@
 {
     "name": "example",
-    "version": "1.0.0",
-    "description": "Sample JSON data"
+    "version2": "1.0.0",
+    "description": "Sample JSON data",
+    "dependencies": {
+        "libraryA": "^2.3.4",
+        "libraryB": "~1.0.0"
+    }
 }
